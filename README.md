@@ -16,7 +16,7 @@ We start by discussing the notions of "scientific method" that is ingrained
 in the research community and that is reflected in the IMRaD style required
 by most academic journals. We also discuss its limitations and criticism.
 
-Lecture: [On the scientific method](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/metodo_cientifico.pptx)
+Lecture: [On the scientific method](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/scientific_method.pptx)
 
 Required reading: [Is the scientific paper a fraud?](https://github.com/gilbertocamara/research_methods/blob/main/references/medawar_paper_fraud.pdf)
 
