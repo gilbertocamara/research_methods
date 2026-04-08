@@ -26,7 +26,8 @@ describing their work.
 * [Writing Guidelines for Engineering and Science Students, Penn State Univ](https://www.craftofscientificwriting.org/research.html)
 * [How to Give a Good Research Talk, Simon Peyton Jones.](https://simon.peytonjones.org/great-research-talk/)
 * [Rethinking Presentations in Engineering and Science](https://www.assertion-evidence.com/)
-
+* [How to Write a Good Systems Paper](https://github.com/gilbertocamara/research_methods/blob/main/references/levin_good_systems_paper.pdf)
+* [Evaluating Computer Scientists and Engineers For Promotion and Tenure](https://github.com/gilbertocamara/research_methods/blob/main/references/tenure_review.pdf)
 
 ## Part 1 - What is the scientific method?
 
@@ -38,7 +39,7 @@ Lecture: [On the scientific method](https://github.com/gilbertocamara/research_m
 
 ### Assignment 1A - Critical analysis of a paper
 
-Read the paper [“The Future of the Brazilian Amazon”](https://github.com/gilbertocamara/research_methods/blob/main/references/laurance_future_amazon), published in Science, 2001. Then write an essay (3-4 paragraphs) which considers the following questions:
+Read the paper [“The Future of the Brazilian Amazon”](https://github.com/gilbertocamara/research_methods/blob/main/references/laurance_future_amazon.pdf), published in Science, 2001. Then write an essay (3-4 paragraphs) which considers the following questions:
 
 * Did the paper follow the scientific method? Explain your response.
 * What are the weaknesses and strengths of the paper?
