@@ -35,7 +35,7 @@ We start by discussing the notions of "scientific method" that is ingrained
 in the research community and that is reflected in the IMRaD style required
 by most academic journals. We also discuss its limitations and criticism.
 
-Lecture: [On the scientific method](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/scientific_method.pptx)
+Lecture: [On the scientific method](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/scientific_method.pdf)
 
 ### Assignment 1A - Critical analysis of a paper
 
@@ -60,7 +60,7 @@ Read the essay [Is the scientific paper a fraud?](https://github.com/gilbertocam
 
 The lecture discusses thesis planning, with a strong focus on how to define a good research problem, particularly in Earth System Science and Computer Science, and how to develop, manage, and publish a graduate thesis.\
 
-Lecture: [Planning your research](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/research_plan.pptx)
+Lecture: [Planning your research](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/research_plan.pdf)
 
 ### Assignment 2 - Outline of your research plan 
 
@@ -75,7 +75,7 @@ Prepare a one-slide presentation outlining you research plan. Use the template:
 
 The lecture examines ethics in scientific research, combining philosophical foundations with practical realities of modern science. It argues that scientific ethics are shaped less by absolute moral principles and more by community practices, incentives, and power structures. It also describes well-known cases which show a complex interplay of personal interest and objective results, including Eddington's 1919 experiment, the dispute by Darwin and Wallace on Evolution, the Rosalind Franklin affair in DNA structure discovery. It argues that the pressure for publication has substantially increased malpractice in Science. We present recent rankings on Brazilian scientific production and discuss their implications for young researchers and PhD candidates.
 
-Lecture: [Science in practice](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/research_practice.pptx)
+Lecture: [Science in practice](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/research_practice.pdf)
 
 ### Assignment 3 - Literature review
 
@@ -90,7 +90,7 @@ Identify three influential papers on your research area. Write a brief evaluatio
 
 The presentation argues that difficulties in publishing scientific work are not only due to poor English, but mainly to weaknesses in research planning, methodology, and argumentation. The presentation stresses that strong arguments are essential to convince readers. Writing quality alone is insufficient if the argumentation is weak. We follow Toulmin's "The Logic of Arguments" to identify the four essential parts of scientific writing: arguments, evidences, warrants, and qualifications. 
 
-Lecture: [The logic of arguments](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/logic_arguments.pptx)
+Lecture: [The logic of arguments](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/logic_arguments.pdf)
 
 ### Assignment 4 - Arguments in practice
 
@@ -101,7 +101,7 @@ Pick one of three influential papers you selected in Assignment 3. In the Introd
 
 This presentation offers practical guidance on clear, effective scientific writing, emphasising that good writing is achieved through simplicity, structure, and careful revision. Writing should aim to express complex ideas in simple language, favouring concrete words over abstract or vague ones. Brevity and precision can carry strong meaning. Excess words weaken impact, while concise phrasing strengthens it. Paragraphs should move from old information to new, linking smoothly to surrounding text. Well‑structured paragraphs dramatically improve readability and argument strength. LLMs can assist with improving drafts, reviewing familiar literature, and simple coding, but they tend to produce verbose, shallow, or uncritical text. Writers are warned not to become “stochastic parrots” by blindly reproducing AI-generated language.
 
-Lecture: [Writing advice](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/writing_advice.pptx)
+Lecture: [Writing advice](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/writing_advice.pdf)
 
 ### Assignment 5 - Evaluation of a thesis
 
