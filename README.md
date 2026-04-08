@@ -61,7 +61,9 @@ The lecture discusses thesis planning, with a strong focus on how to define a go
 
 Lecture: [Planning your research](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/research_plan.pptx)
 
-### Assignment 2: Prepare a one-slide presentation outlining you research plan. Use the template:
+### Assignment 2 - Outline of your research plan 
+
+Prepare a one-slide presentation outlining you research plan. Use the template:
 
 * "I'm going to study ___(topic)________
 * "because I want to discover__(question)_____"
@@ -74,7 +76,9 @@ The lecture examines ethics in scientific research, combining philosophical foun
 
 Lecture: [Science in practice](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/research_practice.pptx)
 
-### Assignment 3: Identify three influential papers on your research area. Write a brief evaluation of each paper (3-4 paragraphs) addressing the following questions:
+### Assignment 3 - Literature review
+
+Identify three influential papers on your research area. Write a brief evaluation of each paper (3-4 paragraphs) addressing the following questions:
 
 * What is the main scientific contribution of the paper?
 * What is the importance of the paper? Why is it influential?
@@ -87,7 +91,9 @@ The presentation argues that difficulties in publishing scientific work are not 
 
 Lecture: [The logic of arguments](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/logic_arguments.pptx)
 
-### Assignment 4: Pick one of three influential papers you selected in Assignment 3. In the Introduction, Discussion and Conclusion section, identify paragraphs where the authors present strong arguments. Then write an evaluation of those arguments considering if the authors also provided evidences, warrants and qualifications. 
+### Assignment 4 - Arguments in practice
+
+Pick one of three influential papers you selected in Assignment 3. In the Introduction, Discussion and Conclusion section, identify paragraphs where the authors present strong arguments. Then write an evaluation of those arguments considering if the authors also provided evidences, warrants and qualifications. 
 
 
 ## Part 5 - Writing advice 
@@ -96,9 +102,9 @@ This presentation offers practical guidance on clear, effective scientific writi
 
 Lecture: [Writing advice](https://github.com/gilbertocamara/research_methods/blob/main/Lectures/writing_advice.pptx)
 
-### Assignment 5: Evaluation of a thesis
+### Assignment 5 - Evaluation of a thesis
 
-Present an evaluation of a thesis (for doctoral students) or dissertation (for master's students) in your field. You are free to choose a thesis. The evaluation should be in writing in no less than 4 paragraphs and no more than 2 pages. 
+Present an evaluation of a PhD dissertation (for doctoral students) or MSc thesis (for master's students) in your field. You are free to choose the thesis. The evaluation should be in writing in no less than 4 paragraphs and no more than 2 pages. 
 
 * What scientific question served as the basis for the work? 
 * What is the author trying to demonstrate or explain? 
